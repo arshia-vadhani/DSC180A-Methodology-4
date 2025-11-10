@@ -1,0 +1,4 @@
+title: "Methodology Assignment 4"
+remote_theme: chibicode/jekyll-theme-yat
+plugins:
+  - jekyll-remote-theme
