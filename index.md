@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Methodology Assignment 4"
 ---
 
 **Name and UCSD Email:**  
