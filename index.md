@@ -2,17 +2,17 @@
 title: "Methodology Assignment 4"
 ---
 
----
+
 **Name and UCSD Email:**  
 Arshia Vadhani
 avadhani@ucsd.edu
----
+
 
 
 **Section and Mentor:**  
 A08 – Large Language (Multi-Modal) Model Reasoners and Agents
 Zhiting Hu
----
+
 
 **Questions**
 
